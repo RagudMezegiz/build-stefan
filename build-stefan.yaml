@@ -1,0 +1,25 @@
+input-files:
+- build-stefan.md
+- games/bash.md
+- games/blade.md
+- games/bw.md
+- games/cs.md
+- games/corps.md
+- games/eote.md
+#- games/fate.md
+#- games/fudge.md
+#- games/gurps.md
+#- games/hero.md
+#- games/mistborn.md
+#- games/mutants.md
+#- games/reign.md
+#- games/savage.md
+#- games/ssea.md
+#- games/tristat.md
+#- games/warwar.md
+pdf-engine: xelatex
+output-file: build-stefan.pdf
+include-in-header:
+- tex/header.tex
+metadata-file: metadata.yaml
+table-of-contents: true
