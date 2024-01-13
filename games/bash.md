@@ -8,7 +8,7 @@ Bash!\ Fantasy is for swords and sorcery games rather than the more realistic wo
 
 ## Stats, Race, and Age
 
-Since it's recommended to spend 14 points on Stats, that would be a total of 7 levels.  Stefan's not particularly strong, but he is very quick and smart.  Brawn 1, Agility 3, and Mind 3 cost 14 points.
+Since it's recommended to spend 14 points on Stats, that would be a total of 7 levels.  Stefan's not particularly strong, but he is very quick and smart.  Brawn\ 1, Agility\ 3, and Mind\ 3 cost 14 points.
 
 For race and age, Stefan is a human in his early 20s.
 

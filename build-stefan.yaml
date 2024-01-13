@@ -6,17 +6,16 @@ input-files:
 - games/cs.md
 - games/corps.md
 - games/eote.md
-#- games/fate.md
-#- games/fudge.md
-#- games/gurps.md
-#- games/hero.md
-#- games/mistborn.md
-#- games/mutants.md
-#- games/reign.md
-#- games/savage.md
-#- games/ssea.md
-#- games/tristat.md
-#- games/warwar.md
+- games/fate.md
+- games/fudge.md
+- games/gurps.md
+- games/hero.md
+- games/mistborn.md
+- games/mutants.md
+- games/reign.md
+- games/savage.md
+- games/ssea.md
+- games/tristat.md
 pdf-engine: xelatex
 output-file: build-stefan.pdf
 include-in-header:
