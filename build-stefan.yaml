@@ -18,6 +18,7 @@ input-files:
 - games/ssea.md
 - games/tristat.md
 - games/witcher.md
+- summary.md
 pdf-engine: xelatex
 output-file: build-stefan.pdf
 include-in-header:
