@@ -9,7 +9,7 @@ endif
 
 all: build-stefan.pdf
 
-MD_FILES = build-stefan.md $(wildcard games/*.md)
+MD_FILES = build-stefan.md summary.md $(wildcard games/*.md)
 TEX_FILES = $(wildcard tex/*.tex)
 YAML_FILES = build-stefan.yaml metadata.yaml
 

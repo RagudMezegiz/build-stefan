@@ -17,6 +17,7 @@ input-files:
 - games/savage.md
 - games/ssea.md
 - games/tristat.md
+- games/witcher.md
 pdf-engine: xelatex
 output-file: build-stefan.pdf
 include-in-header:
