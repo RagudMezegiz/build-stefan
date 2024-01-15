@@ -108,7 +108,7 @@ Here's the final character:
   0 Normal Characteristic Maxima
  10 Distinctive Features:  Supernatural cut in shadow (Concealable; Noticed and
     Recognizable; Detectable By Commonly-Used Senses)
- 15 Hunted:  Santorelli's Gang 11- (Mo Pow; Limited Geographical Area; Harshly Punish)
+ 15 Hunted: Santorelli's Gang 11- (Mo Pow; Limited Geographical Area; Harshly Punish)
  15 Psychological Limitation:  Greed (Common; Strong)
  10 Psychological Limitation:  Laziness (Common; Moderate)
 --- -----------------------------------------------------------------------------------
@@ -122,6 +122,6 @@ Here's the final character:
 
 <!-- markdownlint-enable MD035 -->
 
-\subsection{Conclusion}
+## Conclusion
 
 It's certainly easier to create a heroic character than it is a superhero, since there aren't all those powers to worry about.  But did I successfully recreate Stefan?  The answer is a solid maybe.  I think this character has the appropriate skills, but I'm not quite sure it would feel like the same character in play.

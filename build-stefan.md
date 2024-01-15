@@ -2,7 +2,9 @@
  Copyright 2024 David Terhune. All rights reserved.
 -->
 
-# Original Version
+# Introduction
+
+One of the things I do to test the flexibility of a fantasy game system is to build a starting version of one of my old GURPS characters: Stefan Meronson. Stefan was intelligent, sociable, and handy to have in a fight.  If a game system can build a reasonable version of Stefan as a beginning character, it should be flexible enough to build damn near anybody.
 
 ## Background
 
